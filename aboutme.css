@@ -1,0 +1,37 @@
+.navbar {
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 40px;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: left;
+    width:50px;
+}
+
+.rightnav {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}
+
+.projects{
+    color: black;
+    text-decoration: none;
+}
+
+.aboutme{
+    color: black;
+    text-decoration: underline;
+}
+
+.contact{
+    color: black;
+    text-decoration: none;
+}
